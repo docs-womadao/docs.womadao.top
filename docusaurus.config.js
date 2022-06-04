@@ -86,7 +86,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Twiyin0',
+            href: 'https://github.com/Twiyin0/docs.womadao.top',
             label: 'GitHub',
             position: 'right',
           },
@@ -122,15 +122,15 @@ const config = {
             ],
           },
           {
-            title: '更多信息',
+            title: '友情链接',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '音铃的博客',
+                href: 'https://blog.twiyin0.cn',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/Twiyin0',
+                label: 'vlssu公益服',
+                href: 'https://vlssu.cn',
               },
             ],
           },

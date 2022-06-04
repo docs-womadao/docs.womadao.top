@@ -4,15 +4,6 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '敬请期待',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        敬请期待更多新内容.......
-      </>
-    ),
-  },
-  {
     title: 'warma粉丝mc公益服',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
@@ -29,6 +20,15 @@ const FeatureList = [
     description: (
       <>
         沃玛岛服务器内置起床战争、魔法战地小游戏等待您的游玩
+      </>
+    ),
+  },
+  {
+    title: '敬请期待',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        敬请期待更多新内容.......
       </>
     ),
   },
