@@ -1,4 +1,4 @@
----
+![image](https://github.com/Twiyin0/docs.womadao.top/assets/65774938/429e0d7c-c9c3-4909-bcb2-10e38959a8f0)---
 sidebar_position: 1
 description: 欢迎来到沃玛频道帮助文档首页。
 ---
@@ -107,7 +107,7 @@ Java版：**warma.fans**
 
 ### 加入我们
 
-如果你有兴趣加入我们，可以加入我们的QQ频道咨询 [http://warma.fans](http://warma.fans “泰酷辣”) 。  
+如果你有兴趣加入我们，可以加入我们的QQ频道咨询 [http://warma.fans](http://warma.fans "泰酷辣") 。  
 我们目前主要缺少网页编辑，3D动画制作等人才，如果您感兴趣，欢迎前来咨询！  
 如果想与我们一同管理服务器可以找管理员 **红糖HomeTown音铃** 审核。  
 我们非常欢迎大家的加入！
