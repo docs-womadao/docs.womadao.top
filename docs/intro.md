@@ -1,4 +1,4 @@
-![image](https://github.com/Twiyin0/docs.womadao.top/assets/65774938/429e0d7c-c9c3-4909-bcb2-10e38959a8f0)---
+---
 sidebar_position: 1
 description: 欢迎来到沃玛频道帮助文档首页。
 ---
