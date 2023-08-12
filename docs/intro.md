@@ -13,13 +13,13 @@ description: 欢迎来到沃玛频道帮助文档首页。
 
 ## 新人一定要看的
 
-[频道文档](./First/Readme/pin-dao-wen-dang.mdx)  
+[频道文档](./First/Readme/pin-dao-wen-dang)  
   
-[皮肤站文档](./First/Readme/pi-fu-zhan-bang-zhu-wen-dang.md)
+[皮肤站文档](./First/Readme/pi-fu-zhan-bang-zhu-wen-dang)
 
 [如何进入服务器](./serverDocs/enterTheServer/README.md)
 
-[基岩版如何进入服务器](./serverDocs/enterTheServer/ji-yan-ban-jia-ru-fu-wu-qi.md)
+[基岩版如何进入服务器](./serverDocs/enterTheServer/ji-yan-ban-jia-ru-fu-wu-qi)
 
 ## 服务器信息
 
@@ -89,7 +89,7 @@ Java版：**warma.fans**
 
 ### 处罚制度
 
-[服务器规则](./notice/fu-wu-qi-gui-ze.md)
+[服务器规则](./notice/fu-wu-qi-gui-ze)
 
 ### 关于我们
 

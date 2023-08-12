@@ -60,7 +60,7 @@ description: PCL启动器配置外置登录登入皮肤站
 ![](../assets/image%20(9).png)
 
 &#x20;   仔细检查核对所填**`认证服务器`**、**`注册链接`**和**`自动进入服务器`**（选填）与图中是否一致。且字符均为**英文半角**字符。如果未填**`自动进入服务器`**一项，稍后在进入游戏时需进入多人游戏 >> 添加服务器里手动添加相应的服务器名称和地址，服务器信息详见 
-[Java安装及使用](./First/Readme/java-an-zhuang-ji-shi-yong.md) 。
+[Java安装及使用](../First/Readme/java-an-zhuang-ji-shi-yong)  
 
 &#x20;
 
