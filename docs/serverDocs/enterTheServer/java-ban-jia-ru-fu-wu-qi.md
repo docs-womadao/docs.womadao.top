@@ -8,32 +8,37 @@ description: java版玩家加入服务器
 
 [皮肤站文档](../../First/Readme/pi-fu-zhan-bang-zhu-wen-dang.md)
 
-[Java安装](../../First/Readme/java-an-zhuang-ji-shi-yong.md)
+[Java安装](../../First/Readme/java-an-zhuang-ji-shi-yong)
 
 
 ## 服务器信息
 
 服务器名称：  
 
-**沃玛岛服务器**  
+**沃玛频道服务器**  
 
 服务器ip：  
 
-**mc.womadao.top**&#x20;  
+**warma.fans**&#x20;  
 
-需要 [沃玛人皮肤站](https://skin.warma.ren) 登录  
+需要 [沃玛频道皮肤站](https://skin.warma.fans) 登录  
 
-## 新人可以看这里
+## 新频员可以看这里
+:::danger 注意
+以下教程已过期，但是道理都是一样的  
+更多可以查看  **[HMCL启动器配置](../../LancherConfig/hmcl-qi-dong-qi)**  
+新整合包下载地址[https://www.123pan.com/s/QJxqVv-QFRcv.html](https://www.123pan.com/s/QJxqVv-QFRcv.html)
+:::
 
 ### 下载整合包
 
-群文件内下载整合包  
+子频道文件内下载整合包  
 
 ![](../../assets/image%20(61).png)  
 
-安装Java8，可以点击下面跳转到教程  
+安装Java17，可以点击下面跳转到教程  
 
-[Java安装](../../First/Readme/java-an-zhuang-ji-shi-yong.md)
+[Java安装](../../First/Readme/java-an-zhuang-ji-shi-yong)
 
 打开文件夹所在位置，解压整合包  
 
@@ -47,14 +52,15 @@ description: java版玩家加入服务器
 
 ![](../../assets/image%20(59).png)  
 
-然后确定![](../../assets/image%20(60).png)  
+然后确定  
+![](../../assets/image%20(60).png)  
 点这里回到首页  
 
 然后开始游戏就行了  
 
 ![](../../assets/image%20(63).png)  
 
-这个不用管，能进去的
+<span style={{color: 'red','font-weight':'bolder', 'font-size': '20px'}}>这个不用管，能进去的</span>
 
 ## 老玩家可以看这个
 

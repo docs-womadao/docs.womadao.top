@@ -10,16 +10,17 @@ const FeatureList = [
       <>
         原为warma鸡窝服务器，起源于2020年10月
         将喜欢Minecraft的沃沃头集合在一起开心的玩耍~ 
-        沃玛岛官方群群号：1139412612 。
+        沃玛频道官方入群通道：http://warma.fans
+      
       </>
     ),
   },
   {
-    title: '小游戏',
+    title: '多服互联',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        沃玛岛服务器内置起床战争、魔法战地小游戏等待您的游玩
+        沃玛频道服务器内置生存与创造以及“沃玛岛”等多个子服务器，我们期待着你的游玩！
       </>
     ),
   },
@@ -28,7 +29,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        敬请期待更多新内容.......
+        服务器目前仍处于积极开发与维护的过程之中
+        未来将会不断开放更多的新玩法！敬请期待！
       </>
     ),
   },

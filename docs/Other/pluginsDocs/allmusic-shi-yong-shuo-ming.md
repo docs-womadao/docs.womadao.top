@@ -1,8 +1,7 @@
+# Allmusic使用说明
 >
 已废弃,但可以借鉴此文档安装其他mod
 >
-
-# Allmusic使用说明
 
 ## Allmusic
 

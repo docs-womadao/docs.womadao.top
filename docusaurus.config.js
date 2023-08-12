@@ -3,12 +3,14 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Womadao Docs',
-  tagline: 'A docs website of Womadao',
-  url: 'https://docs.twiyin0.cn',
+  title: '沃频服务器帮助文档',
+  tagline: 'A docs website of WarmaChannelsServer',
+  url: 'https://docs.warma.fans',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -23,6 +25,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
@@ -77,12 +81,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '沃玛岛帮助文档',
+            label: '沃玛频道帮助文档',
           },
           {to: '/blog', label: '相关教程', position: 'left'},
           {
-            href: 'https://skin.warma.ren',
-            label: '沃玛人皮肤站',
+            href: 'https://skin.warma.fans',
+            label: '沃玛频道皮肤站',
             position: 'right',
           },
           {
@@ -112,8 +116,8 @@ const config = {
             title: '社区',
             items: [
               {
-                label: '沃玛岛官网',
-                href: 'https://womadao.top',
+                label: '沃玛频道服务器官网',
+                href: 'http://home.warma.fans',
               },
               {
                 label: 'QQ群',
@@ -135,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Twiyin0, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Twiyin0, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

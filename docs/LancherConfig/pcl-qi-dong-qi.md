@@ -3,10 +3,15 @@ description: PCL启动器配置外置登录登入皮肤站
 ---
 
 # PCL启动器
+:::danger <span style={{color: 'red','font-weight':'bolder', 'font-size': '20px'}}>注意</span>
+由于没有更新图片，该教程仅供参考  
+请将第十步的认证服务器和注册链接中的`https://skin.warma.ren`改成`https://skin.warma.fans`  
+游戏版本根据自己的需要安装
+:::
 
 ## 前置知识
 
-* [皮肤站帮助文档](./First/Readme/pi-fu-zhan-bang-zhu-wen-dang.md)
+* [皮肤站帮助文档](../First/Readme/pi-fu-zhan-bang-zhu-wen-dang)
 
 ## PCL配置
 
