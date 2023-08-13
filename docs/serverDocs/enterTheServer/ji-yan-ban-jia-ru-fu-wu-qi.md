@@ -2,7 +2,7 @@
 
 ## 前置知识
 
-[皮肤站帮助文档](../../First/Readme/pi-fu-zhan-wen-dang.md)
+[皮肤站帮助文档](../../First/Readme/pi-fu-zhan-wen-dang)
 
 ## 服务器信息
 
@@ -34,7 +34,7 @@
 * 2.进入频道在任意子频道
 * 3.发送@店店店店员 绑定 你的游戏id  
 **注意！请先进行频道内的认证成为一名认证沃沃头才能发言哦！**  
-**相关教程在[这里](../../First/Readme/pi-fu-zhan-bang-zhu-wen-dang.md)**
+**相关教程在[这里](../../First/Readme/pi-fu-zhan-wen-dang)**
 * 2.打开游戏；
 * 3.使用微软账户登入主界面；
 * 4.添加并进入服务器；
@@ -80,4 +80,4 @@
 
 ## 更换皮肤
 
-[皮肤站文档](../../First/Readme/pi-fu-zhan-wen-dang.md)
+[皮肤站文档](../../First/Readme/pi-fu-zhan-wen-dang)

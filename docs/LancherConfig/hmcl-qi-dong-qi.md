@@ -6,7 +6,7 @@ description: HMCL配置外置登录登入皮肤站
 
 ## 前置知识
 
-* [皮肤站帮助文档](../First/Readme/pi-fu-zhan-bang-zhu-wen-dang)
+* [皮肤站帮助文档](../First/Readme/pi-fu-zhan-wen-dang)
 
 ## HMCL配置
 

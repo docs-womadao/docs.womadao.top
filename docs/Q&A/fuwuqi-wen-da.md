@@ -8,7 +8,7 @@ description: 有些问题，你可能会经常遇到
 ### 怎么进服务器
 
 #### 前置知识  
-[沃玛频道皮肤站帮助文档](../First/Readme/pin-dao-wen-dang.md)  
+[沃玛频道皮肤站帮助文档](../First/Readme/pi-fu-zhan-wen-dang)  
    
 请先点这里下载整合包   
 [HMCL整合包](https://www.123pan.com/s/QJxqVv-QFRcv.html)  
