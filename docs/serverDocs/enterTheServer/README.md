@@ -2,7 +2,7 @@
 
 ## 前置知识
 
-[皮肤站文档](../../First/Readme/pi-fu-zhan-bang-zhu-wen-dang.md)
+[皮肤站文档](../../First/Readme/pi-fu-zhan-wen-dang.md)
 
 [Java安装](../../First/Readme/java-an-zhuang-ji-shi-yong.md)
 

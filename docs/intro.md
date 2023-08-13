@@ -9,13 +9,11 @@ description: 欢迎来到沃玛频道帮助文档首页。
 原为warma鸡窝服务器，起源于2020年10月；  
 将喜欢Minecraft的沃沃头集合在一起开心的玩耍~   
 沃玛频道官方入频入口：[warma.fans](http://warma.fans) 。  
-文档版本：V4.1
+文档版本：V4.2
 
 ## 新人一定要看的
 
-[频道文档](./First/Readme/pin-dao-wen-dang)  
-  
-[皮肤站文档](./First/Readme/pi-fu-zhan-bang-zhu-wen-dang)
+[皮肤站文档](./First/Readme/pi-fu-zhan-wen-dang)
 
 [如何进入服务器](./serverDocs/enterTheServer/README.md)
 
@@ -31,7 +29,7 @@ description: 欢迎来到沃玛频道帮助文档首页。
 
 Java版(国际版)**1.9  ~1.20.1**
 
-基岩版(国际版)**1.20.0.01  ~1.20.10.01**
+基岩版(国际版)**1.20.0  ~1.20.1x**
 
 
 服务器ip：
@@ -135,6 +133,9 @@ by **柳柳**
 文档版本: v4.1  
 修改时间: 2023.8.12  
 by **音铃**  
+文档版本：v4.2  
+修改时间：2023.8.13  
+by **DDZ**  
 该帮助文档版本由3.0基础上进行修改而来  
 如文档有错误请联系音铃或者柳柳。 
 ###### (PS:感谢音铃超级细心的技术支持！~)   

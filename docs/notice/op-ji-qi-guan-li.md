@@ -12,7 +12,7 @@
 * 水灵shuiling233
 * 柳柳NayaCcR
 * liuchang
-* 橙息cxchency(熊孩子)
+* 橙息cxchency~~(熊孩子)~~
 
 ### 监督管理(admin)
 
@@ -24,6 +24,7 @@
 
 * 酚糖水饺
 * 墨桐舟
+* DDZ
 
 现决定将op分层化
 
@@ -39,12 +40,13 @@
 * 水灵shuiling233&nbsp;(维护)
 * 柳柳NayaCcR&nbsp;(维护)
 * liuchang&nbsp;(维护)
-* 橙息cxchency&nbsp;(熊孩子)
+* 橙息cxchency&nbsp;~~(熊孩子)~~
 
 ### 监督管理(admin)
 
 * 墨桐舟
 * 酚糖水饺
+* DDZ
 
 放于权限组`admin`&#x20;
 

@@ -4,9 +4,9 @@ description: 这里暂以两个启动器为例
 
 # 各启动器配置
 
-[hmcl](./hmcl-qi-dong-qi.md)  
+[HMCL](./hmcl-qi-dong-qi.md)  
 
-[pcl](./pcl-qi-dong-qi.md)
+[PCL2](./pcl-qi-dong-qi.md)
 
 正版启动器可以参考师叔家的文档
 
