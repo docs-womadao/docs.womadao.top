@@ -67,3 +67,7 @@ description: java版玩家加入服务器
 点击下方链接开始配置启动器：
 
 [各启动器配置](../../LancherConfig/README.md)
+
+**· .如果出现问题：**
+
+请移步[进不去服务器怎么办](../../Q&A/jin-bu-qu-de-yuan-yin.md)
