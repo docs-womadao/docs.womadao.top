@@ -5,7 +5,7 @@ hide_table_of_contents: true
 ---
 
 # 文档修改记录归档
-**仅仅记录v4.0及以后的版本**  
+**仅仅记录v1.0及以后的版本**  
 仅记录修改者及更新时间和简要信息，具体修改信息请移步**GitHub**  
 [Twiyin0/docs.womadao.top](https://github.com/Twiyin0/docs.womadao.top "请给我们一个免费的star吧qwq--柳柳")
 
