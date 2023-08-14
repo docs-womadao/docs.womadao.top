@@ -26,10 +26,16 @@ hide_table_of_contents: true
 ## v1.0.1.2  
 ### 更新内容.by **水灵Shuing**  
 * 8.13 更正了部分过时信息 [#commit f48de33](https://github.com/Twiyin0/docs.womadao.top/commit/f48de33bd05355bcc6dddab472556f6db86113ec)
+* 8.14 增加了过往服务器存档下载 [#commit 45b4b59](https://github.com/Twiyin0/docs.womadao.top/commit/45b4b59078692bd3c6993cef840a68984adec91a)
+* 8.14 完善了部分问答[#commit 055ab8f](https://github.com/Twiyin0/docs.womadao.top/commit/055ab8fed138f818ec303ded0ee25c18a3f3b40e)
+* 8.14 修改页脚编辑链接[#commit 3bd406f](https://github.com/Twiyin0/docs.womadao.top/commit/3bd406fb3fed4eece243f2c2b5913ab0007bdfa7)
+* 8.15 完善changelog、存档文档和捉虫 [#commit 24aa3a1](https://github.com/Twiyin0/docs.womadao.top/commit/24aa3a17e15d0ec1c7e1624ba6adc8e128ad3458)[#commit 8468756](https://github.com/Twiyin0/docs.womadao.top/commit/84687563e7c90f72205b8e9b11b40bb03f0ac594)[#commit 6406ad6](https://github.com/Twiyin0/docs.womadao.top/commit/6406ad608fa3b073249768f11db13bef704c15ac)
+
 修改时间：2023.8.13  
 ## v1.0.1.3  
 ### 更新内容.by **柳柳**
 * 8.12修正了文档里的链接和图片
 * 8.13更新了管理员名单
 * 捉虫
+
 修改时间：2023.8.14  
