@@ -11,7 +11,6 @@
 | wmd only                | [点我下载](https://pan.zroevn.cn/f/adSo/wmdbackup.zip)      | 无             |
 
 
-### 运行服务器请参考[Java版开服](./winServer.md)
 
 ### 不想开服又想玩体验过往服务器的
 ### 我们已将以上所有存档部署于服务器内
