@@ -10,7 +10,7 @@
 | 空岛                    | [点我下载](https://pan.zroevn.cn/f/J1il/rpg.tar.gz)          | 无             |
 | wmd only                | [点我下载](https://pan.zroevn.cn/f/adSo/wmdbackup.zip)      | 无             |
 
-
+## 如何使用存档？[如何开服](../start-server/winServer.md) ##
 
 ### 不想开服又想玩体验过往服务器的
 ### 我们已将以上所有存档部署于服务器内
