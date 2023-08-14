@@ -10,7 +10,7 @@ description: PCL启动器配置外置登录登入皮肤站
 
 ## PCL配置
 
-**1.双击打开 PCL2.exe；**
+**1.双击打开 Plain Craft Launcher 2.exe；**
 
 ![](../assets/pcl1.png)
 
