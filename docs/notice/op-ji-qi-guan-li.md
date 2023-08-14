@@ -1,6 +1,6 @@
 # 管理人员
 
-### 后台管理
+### OP
 
 维护、管理服务器，拥有服务器最高权限
 
@@ -11,7 +11,7 @@
 * 音铃Twiyin0
 * 水灵shuiling233
 * 柳柳NayaCcR
-* liuchang
+* liuchang20202
 * 橙息cxchency~~(熊孩子)~~
 
 ### 监督管理(admin)
@@ -24,33 +24,21 @@
 
 * 酚糖水饺
 * 墨桐舟
-* DDZ
+* DDZmumo
 
-现决定将op分层化
+### 运维组
+**服务器内解释权归运维组所有**
 
-### 超级管理(op)
-
-维护、管理服务器，拥有服务器最高权限
-
-包括补偿、服务器维修、权限管理、监督
-
-**目前仅有人员**
-
-* 音铃Twiyin0&nbsp;(维护)
-* 水灵shuiling233&nbsp;(维护)
-* 柳柳NayaCcR&nbsp;(维护)
-* liuchang&nbsp;(维护)
-* 橙息cxchency&nbsp;~~(熊孩子)~~
-
-### 监督管理(admin)
-
-* 墨桐舟
+* 橙息cxchency  
+* 音铃Twiyin0  
+* 水灵shuiling233
+* 柳柳NayaCcR
+* liuchang20202
 * 酚糖水饺
-* DDZ
-
-放于权限组`admin`&#x20;
-
-及时监督服内情况，向op上报
+* 墨桐舟
+* DDZmumo
+* 景冰JingBing
+* 三氧水、
 
 
 如果你想要加入管理组，请联系**`柳柳NayaCcR` **&#x20;或者** `音铃Twiyin0` **(频道里叫红糖HomeTown音铃)

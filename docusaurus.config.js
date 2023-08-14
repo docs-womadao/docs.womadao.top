@@ -120,18 +120,23 @@ const config = {
                 href: 'http://mc.warma.fans',
               },
               {
+                label: 'QQ频道入口',
+                href: 'http://warma.fans',
+              },
+              {
                 label: 'QQ群(已弃用)',
                 href: 'https://jq.qq.com/?_wv=1027&k=jUYsLhWD',
               },
-              {
-                label: 'QQ频道',
-                href: 'http://warma.fans',
-              },
+
             ],
           },
           {
             title: '友情链接',
             items: [
+              {
+                label: '沃玛频道官网',
+                href: 'https://www.warma.fans',
+              },
               {
                 label: '音铃的博客',
                 href: 'https://blog.twiyin0.cn',
