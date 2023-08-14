@@ -125,7 +125,7 @@ const config = {
               }
               {
                 label: 'QQ频道'
-                herf: 'http://warma.fans'
+                href: 'http://warma.fans'
             ],
           },
           {
