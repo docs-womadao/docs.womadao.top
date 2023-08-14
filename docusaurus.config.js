@@ -122,10 +122,11 @@ const config = {
               {
                 label: 'QQ群(已弃用)',
                 href: 'https://jq.qq.com/?_wv=1027&k=jUYsLhWD',
-              }
+              },
               {
                 label: 'QQ频道',
                 href: 'http://warma.fans',
+              },
             ],
           },
           {
