@@ -21,11 +21,15 @@ hide_table_of_contents: true
 * 修改了部分过时文本和错误文本   
 * 移除了Him   
 * 写了三个不能build的东西（划掉）
-  
+
 修改时间：2023.8.13  
 ## v1.0.1.2  
 ### 更新内容.by **水灵Shuing**  
+* 8.13 更正了部分过时信息 [#commit f48de33](https://github.com/Twiyin0/docs.womadao.top/commit/f48de33bd05355bcc6dddab472556f6db86113ec)
 修改时间：2023.8.13  
 ## v1.0.1.3  
 ### 更新内容.by **柳柳**
+* 8.12修正了文档里的链接和图片
+* 8.13更新了管理员名单
+* 捉虫
 修改时间：2023.8.14  
