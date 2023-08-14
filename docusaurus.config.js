@@ -117,12 +117,15 @@ const config = {
             items: [
               {
                 label: '沃玛频道服务器官网',
-                href: 'http://home.warma.fans',
+                href: 'http://mc.warma.fans',
               },
               {
-                label: 'QQ群',
+                label: 'QQ群(已弃用)',
                 href: 'https://jq.qq.com/?_wv=1027&k=jUYsLhWD',
               }
+              {
+                label: 'QQ频道'
+                herf: 'http://warma.fans'
             ],
           },
           {
