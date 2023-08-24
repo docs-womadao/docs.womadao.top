@@ -13,7 +13,7 @@ description: 欢迎来到沃玛频道帮助文档首页。
 
 **沃玛频道[官方网站](https://www.warma.fans '然而并没有开')**  
 
-文档版本：v1.0.1.3  
+文档版本：v1.0.1.4  
 
 ## 新人一定要看的
 
@@ -39,7 +39,7 @@ Java版(国际版)**1.9  ~1.20.1**
 服务器ip：
 
 Java版：**warma.fans**  
-基岩版：**be.warma.faans**  
+基岩版：**be.warma.fans**  
 
 基岩版端口：
 
@@ -71,7 +71,7 @@ Java版：**warma.fans**
 | /home (/cmi home)       | 名称                                    | 回到home          |
 | /back                   | 无                                      | 回到上次传送的地点  |
 | /sit (/cmi sit)         | 无                                     | 坐下           |
-| /ride(/cmi ride)        | 指针对准实体即可                        | 骑上实体           |
+| /ride (/cmi ride)       | 指针对准实体即可                        | 骑上实体           |
 | /ping（/cmi ping）      | 无                                     | 看自己延迟        |
 | /tps                    | 无                                     | 查看服务器tps     |
 | /back                   | 无                                     | 回到上一位置       |
