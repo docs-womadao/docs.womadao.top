@@ -1,5 +1,5 @@
 # Java安装及使用
-** <span style={{color: 'red'}}>jre8/jdk8安装和jdk16安装都是一样的步骤</span> **
+** <span style={{color: 'red'}}>jre8安装和jdk17/jdk20安装都是一样的步骤</span> **
 ### 下载Java
 
 ```mdx-code-block
