@@ -11,7 +11,7 @@ description: 欢迎来到沃玛频道帮助文档首页。
 沃玛频道官方入频入口：[warma.fans](http://warma.fans) 。  
 
 
-**沃玛频道[官方网站](https://www.warma.fans '然而并没有开')**  
+**沃玛频道[官方网站](https://www.warma.fans )**  
 
 文档版本：v1.0.1.5  
 
