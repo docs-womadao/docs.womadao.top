@@ -11,7 +11,7 @@
 * 音铃Twiyin0
 * 水灵shuiling233
 * 柳柳NayaCcR
-* liuchang20202
+* 宇宙编译器
 * 橙息cxchency~~(熊孩子)~~
 
 ### 监督管理(admin)
@@ -33,7 +33,7 @@
 * 音铃Twiyin0  
 * 水灵shuiling233
 * 柳柳NayaCcR
-* liuchang20202
+* 宇宙编译器
 * 酚糖水饺
 * 墨桐舟
 * DDZmumo
