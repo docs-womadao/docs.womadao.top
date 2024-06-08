@@ -105,7 +105,7 @@ Java 版端口:
 
 管理服务器人员：  
 服主：橙息 cxchency（熊孩子）  
-总维护：音铃 Twiyin0、柳雪杨 Naya、liuchang、水灵 Shuing
+总维护：音铃 Twiyin0、柳雪杨 Naya、宇宙编译器、水灵 Shuing
 供应商：水灵 Shuing
 活跃管理：酚糖水饺、墨桐舟、DDZ
 
