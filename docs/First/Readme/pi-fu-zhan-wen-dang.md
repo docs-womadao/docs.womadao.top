@@ -44,6 +44,7 @@
 ![](../../assets/wmd/06-21-24/bang-ding.png)
 
 稍等片刻，不出意外你将收到下面的消息
+
 ![](../../assets/wmd/06-21-24/bang-ding-cheng-gong.png)
 
 然后你就可以酣畅淋漓开始进行游戏了
