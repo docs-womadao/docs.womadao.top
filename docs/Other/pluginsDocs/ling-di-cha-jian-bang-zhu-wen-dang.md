@@ -41,7 +41,7 @@
 | /res message <领地名> enter <信息> | 设置名为<领地名>的领地进入消息 |
 | /res message <领地名> leave <信息> | 设置名为<领地名>的领地离开消息 |
 
-更多详情请参考[https://www.mcbbs.net/forum.php?mod=viewthread\&tid=631343](https://www.mcbbs.net/forum.php?mod=viewthread\&tid=631343)
+更多详情请参考[https://www.minebbs.com/resources/residence.4683/](https://www.minebbs.com/resources/residence.4683/)
 
 我懒了（
 
