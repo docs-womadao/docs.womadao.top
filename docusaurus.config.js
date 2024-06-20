@@ -120,12 +120,16 @@ const config = {
                 href: 'http://mc.warma.fans',
               },
               {
+                label: 'fanbook频道入口',
+                href: 'https://in.fanbook.cn/47BB6FmH',
+              },
+              {
                 label: 'QQ频道入口',
                 href: 'http://warma.fans',
               },
               {
-                label: 'QQ群(已弃用)',
-                href: 'https://jq.qq.com/?_wv=1027&k=jUYsLhWD',
+                label: '沃玛频道QQ群',
+                href: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZmjywsoV8pAeY5KLY1UT3WCTuBt8h36e&authKey=jgq1UHXQ3gUum4b1iLVQ%2F8y3EPWmsoGcfRXOBG7CBuojq2I0CjXMck2KHK5zoaKD&noverify=0&group_code=425996382',
               },
 
             ],
