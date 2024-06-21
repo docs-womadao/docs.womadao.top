@@ -111,7 +111,7 @@ Java 版端口:
 
 ### 加入我们
 
-如果你有兴趣加入我们，可以加入我们的 QQ 频道咨询 [http://warma.fans](http://warma.fans "泰酷辣") 。  
+如果你有兴趣加入我们，可以加入我们的 [ QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZmjywsoV8pAeY5KLY1UT3WCTuBt8h36e&authKey=jgq1UHXQ3gUum4b1iLVQ%2F8y3EPWmsoGcfRXOBG7CBuojq2I0CjXMck2KHK5zoaKD&noverify=0&group_code=425996382 "泰酷辣")咨询 。  
 我们目前主要缺少网页编辑，3D 动画制作等人才，如果您感兴趣，欢迎前来咨询！  
 如果想与我们一同管理服务器可以找频道主 **橙息** 审核。  
 我们非常欢迎大家的加入！

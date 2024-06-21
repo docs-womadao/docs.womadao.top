@@ -3,11 +3,10 @@ title: 文档修改记录
 description: 文档修改记录归档
 hide_table_of_contents: true
 ---
-
 # 文档修改记录归档
 
-**仅仅记录 v1.0.0.1 及以后的版本**  
-仅记录修改者及更新时间，具体修改信息请移步**GitHub**  
+**仅仅记录 v1.0.0.1 及以后的版本**
+仅记录修改者及更新时间，具体修改信息请移步**GitHub**
 [Twiyin0/docs.womadao.top](https://github.com/Twiyin0/docs.womadao.top "请给我们一个免费的star吧qwq--柳柳")
 
 ## v1.0.0.1
@@ -81,3 +80,12 @@ hide_table_of_contents: true
 
 - **liuchang20202**改名 →**宇宙编译器**
 - 更新基岩版最高版本支持
+
+## v1.0.1.7
+
+### 更新内容.by **景冰**
+
+- 修改了一个原指向**mcbbs**的链接
+- 更新[皮肤站帮助文档](https://docs.in0.re/docs/First/Readme/pi-fu-zhan-wen-dang)中有关绑定账号相关内容
+- 在页脚增加了fanbook频道，修改了QQ群的链接和说明文字
+- ~~更新了文档修改记录归档~~
