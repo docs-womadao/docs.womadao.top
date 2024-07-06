@@ -38,10 +38,10 @@ Java 版(国际版)**1.9 ~1.20.2**
 
 |  客户端  | 协议版本 | 地址 | 端口 |
 | ------ | ------ | ------ | ------ | 
-| **Java版**  | ipv4 | [warma.fans](warma.fans) | - |
-| **Java版**  | ipv6 | [mc.chency.top:25577](mc.chency.top:25577) | - |
-| **基岩版**  | ipv4 | [be.warma.fans](be.warma.fans) | 45765
-| **基岩版**  | ipv6 | [mc.chency.top](mc.chency.top) | 45765 |
+| **Java版**  | ipv4 | warma.fans | - |
+| **Java版**  | ipv6 | mc.chency.top:25577 | - |
+| **基岩版**  | ipv4 | be.warma.fans | 45765
+| **基岩版**  | ipv6 | mc.chency.top | 45765 |
 
 服务器核心版本(java)：  
 **1.20.2**
