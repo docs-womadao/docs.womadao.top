@@ -40,8 +40,8 @@ Java 版(国际版)**1.9 ~1.20.2**
 |  客户端  | 协议版本 | 地址 | 端口 |
 | ------ | ------ | ------ | ------ | 
 | **Java版**  | ipv4 | warma.fans | - |
-| **Java版**  | ipv4 | mc2.warma.fans | - |
-| **Java版（备用线路）**  | ipv6 | mc.chency.top | 25577 |
+| **Java版（备用线路）**  | ipv4 | mc2.warma.fans | - |
+| **Java版**  | ipv6 | mc.chency.top | 25577 |
 | **基岩版**  | ipv4 | be.warma.fans | 45765
 | **基岩版**  | ipv6 | mc.chency.top | 45765 |
 
