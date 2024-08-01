@@ -20,7 +20,13 @@ description: java版玩家加入服务器
 
 服务器 ip：
 
-**warma.fans**&#x20;
+**主线 warma.fans**&#x20;
+
+**备用线路 mc2.warma.fans**&#x20;
+
+**ipv6线路 mc.chency.top 端口25577（mc.chency.top:25577）**&#x20;
+
+> ！备用线路和ipv6线路不保证可用性！
 
 需要 [沃玛频道皮肤站](https://skin.warma.fans) 登录
 
