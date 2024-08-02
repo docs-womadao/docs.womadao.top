@@ -11,14 +11,16 @@
 
 ### 安装allmusic
 
-Minecraft客户端版本1.16.5 \
+Minecraft客户端版本1.16.5 
+
 1、安装ALLmusic客户端mod(或者在群文件-allmusic文件夹下载)
 
 * 点击下载1.16.5-forge端[allmusic-forge](https://file.yin0mc.ltd/photos/wmd/\[forge-1.16]AllMusic-2.5.11.jar)
 * 点击下载1.16.5-fabric端[allmusic-fabric](https://file.yin0mc.ltd/photos/wmd/\[fabric-1.16]AllMusic-2.5.11.jar)
 
-\
-2、将\[forge/fabric-1.16]allmusic-2.5.11.jar拖入mods文件夹 \
+
+2、将[forge/fabric-1.16]allmusic-2.5.11.jar拖入mods文件夹
+
 3、重启游戏 
 
 如果需要其他版本的allmusic客户端mod需要进群文件下载
