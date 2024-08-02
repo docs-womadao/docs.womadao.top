@@ -9,23 +9,23 @@
 
 圈地工具为： **木锄**&#x20;
 
-左键选择第一个点(空间一角)
+左键选择第一个点(空间一角)  
 
-右键选择第二个点(空间一角的对角)
+右键选择第二个点(空间一角的对角)  
 
-选择后输入/res create创建领地
+选择后输入/res create创建领地  
 
 &#x20;**注意**&#x20;
 
-(仅限创造服)
+(仅限创造服)  
 
-服务器会每10分钟送玩家100金币
+服务器会每10分钟送玩家100金币  
 
-每个方块为1金币
+每个方块为1金币  
 
-最大领地数：16
+最大领地数：16  
 
-最大领地范围  256\*256\*256
+最大领地范围  256\*256\*256  
 
 ### 领地指令
 
@@ -40,8 +40,8 @@
 | /res enpand 1                 | 往面向的方向扩张1格领地     |
 | /res message <领地名> enter <信息> | 设置名为<领地名>的领地进入消息 |
 | /res message <领地名> leave <信息> | 设置名为<领地名>的领地离开消息 |
-
-更多详情请参考[https://www.minebbs.com/resources/residence.4683/](https://www.minebbs.com/resources/residence.4683/)
+  
+更多详情请参考[https://www.minebbs.com/resources/residence.4683/](https://www.minebbs.com/resources/residence.4683/)  
 
 我懒了（
 
