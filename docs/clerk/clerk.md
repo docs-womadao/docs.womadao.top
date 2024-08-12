@@ -143,8 +143,8 @@
 - 统计分类有如下：
 `丢弃` `破坏` `挖掘` `合成` `被杀` `拾取` `击杀` `使用` `其他` `进度`
 - 除“其他”、“进度”类型以外，对应的 **<统计项>** 为对应实体/方块/物品id
-    > “其他”类型的 **<统计项>** 参考 [统计信息列表](https://minecraft.fandom.com/zh/wiki/统计信息?variant=zh&printable=yes#统计信息列表)
-    > “进度”类型的 **<统计项>** 参考 [进度列表](https://minecraft.fandom.com/zh/wiki/%E8%BF%9B%E5%BA%A6#%E8%BF%9B%E5%BA%A6%E5%88%97%E8%A1%A8) 
+    > “其他”类型的 **<统计项>** 参考 [统计信息列表](https://zh.minecraft.wiki/w/%E8%BF%9B%E5%BA%A6#%E8%BF%9B%E5%BA%A6%E5%88%97%E8%A1%A8)
+    > “进度”类型的 **<统计项>** 参考 [进度列表](https://zh.minecraft.wiki/w/%E8%BF%9B%E5%BA%A6#%E8%BF%9B%E5%BA%A6%E5%88%97%E8%A1%A8) 
 - 若不使用 **<统计项>** 则统计**整个分类**的合计数
 **使用示例：**
     ```    
@@ -174,8 +174,8 @@
 - 统计分类有如下：
 `丢弃` `破坏` `挖掘` `合成` `被杀` `拾取` `击杀` `使用` `其他` `进度`
 - 除“其他”、“进度”类型以外，对应的 **<统计项>** 为对应实体/方块/物品id
-    > “其他”类型的 **<统计项>** 参考 [统计信息列表](https://minecraft.fandom.com/zh/wiki/统计信息?variant=zh&printable=yes#统计信息列表) 
-    > “进度”类型的 **<统计项>** 参考 [进度列表](https://minecraft.fandom.com/zh/wiki/%E8%BF%9B%E5%BA%A6#%E8%BF%9B%E5%BA%A6%E5%88%97%E8%A1%A8)
+    > “其他”类型的 **<统计项>** 参考 [统计信息列表](https://zh.minecraft.wiki/w/%E8%BF%9B%E5%BA%A6#%E8%BF%9B%E5%BA%A6%E5%88%97%E8%A1%A8) 
+    > “进度”类型的 **<统计项>** 参考 [进度列表](https://zh.minecraft.wiki/w/%E8%BF%9B%E5%BA%A6#%E8%BF%9B%E5%BA%A6%E5%88%97%E8%A1%A8)
 - 若不使用 **<统计项>** 则统计**整个分类**的合计数
 - 用法:
     ```
