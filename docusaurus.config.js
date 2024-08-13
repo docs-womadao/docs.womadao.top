@@ -43,9 +43,30 @@ const config = {
       }),
     ],
   ],
+  plugins: [require.resolve('docusaurus-lunr-search')],
   themes: [
     // ... Your other themes.
-    
+        // [
+    //   require.resolve("@easyops-cn/docusaurus-search-local"),
+    //   {
+    //     hashed: true,
+    //     language: ["zh"],
+    //     indexDocs: true,
+    //     indexBlog: true,
+    //     docsRouteBasePath: '/docs',
+    //     blogRouteBasePath: 'blog',
+    //     translations: {
+    //         "search_placeholder": "搜索",
+    //         "see_all_results": "查看所有结果",
+    //         "no_results": "没有结果。",
+    //         "search_results_for": "搜索结果\"{{ keyword }}\" ",
+    //         "search_the_documentation": "搜索文档",
+    //         "count_documents_found": "{{ count }} 个文档找到",
+    //         "count_documents_found_plural": " {{ count }} 个文件找到",
+    //         "no_documents_were_found": "没有找到文件"
+    //     }
+    //   },
+    // ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
