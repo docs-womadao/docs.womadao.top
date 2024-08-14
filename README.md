@@ -2,18 +2,18 @@
 
 # 网站
 
-网站基于 **[Docusaurus 2](https://docusaurus.io/)** 搭建, Docusaurus, 一款时尚的静态网站生成器.
+网站基于 **[Docusaurus 3](https://docusaurus.io/)** 搭建, Docusaurus, 一款时尚的静态网站生成器.
 
 ### 安装
 
 ```
-$ yarn
+$ npx create-docusaurus@latest my-website classic
 ```
 
 ### 本地开发
 
 ```
-$ yarn start
+$ yarn start # npm run start
 ```
 
 此命令启动本地开发服务器并打开浏览器窗口。  
@@ -22,7 +22,7 @@ $ yarn start
 ### 编译
 
 ```
-$ yarn build
+$ yarn build # npm run build
 ```
 
 此命令将静态内容生成到`build`目录中，并且可以使用任何静态内容托管服务提供服务。

@@ -55,9 +55,10 @@
 更多详情可以去看维基百科[wiki-coreprotect](https://mineplugin.org/CoreProtect)
 
 ### /server
+
 ~~现在不好使了~~  
 因为很多老周目地图没开  
-/server <子服名称>    传送到其他子服
+/server &lt;子服名称&gt;    传送到其他子服
 子服列表  
 
 
