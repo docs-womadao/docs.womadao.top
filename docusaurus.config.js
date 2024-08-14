@@ -8,7 +8,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '沃频服务器帮助文档',
+  title: '沃玛岛帮助文档',
   tagline: 'A docs website of WarmaChannelsServer',
   url: 'https://docs.warma.fans',
   baseUrl: '/',
@@ -82,12 +82,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '沃玛频道帮助文档',
+            label: '沃玛岛服务器帮助文档',
           },
           {to: '/blog', label: '相关教程', position: 'left'},
           {
             href: 'https://skin.warma.fans',
-            label: '沃玛频道皮肤站',
+            label: '沃玛岛皮肤站',
             position: 'right',
           },
           {
@@ -117,7 +117,7 @@ const config = {
             title: '社区',
             items: [
               {
-                label: '沃玛频道服务器官网',
+                label: '沃玛岛服务器官网',
                 href: 'http://mc.warma.fans',
               },
               {
@@ -125,12 +125,8 @@ const config = {
                 href: 'https://in.fanbook.cn/47BB6FmH',
               },
               {
-                label: 'QQ频道入口',
-                href: 'http://warma.fans',
-              },
-              {
                 label: '沃玛频道QQ群',
-                href: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZmjywsoV8pAeY5KLY1UT3WCTuBt8h36e&authKey=jgq1UHXQ3gUum4b1iLVQ%2F8y3EPWmsoGcfRXOBG7CBuojq2I0CjXMck2KHK5zoaKD&noverify=0&group_code=425996382',
+                href: 'http://warma.fans',
               },
 
             ],
