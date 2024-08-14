@@ -7,7 +7,7 @@
 [Java安装](../../First/Readme/java-an-zhuang-ji-shi-yong.md)
 
 ## 基岩版
-[基岩版加入服务器](./ji-yan-ban-jia-ru-fu-wu-qi.md)
+[基岩版加入服务器](ji-yan-ban-jia-ru-fu-wu-qi.md)
 
 ## Java版
-[Java版加入服务器](./java-ban-jia-ru-fu-wu-qi.md)
+[Java版加入服务器](java-ban-jia-ru-fu-wu-qi.md)

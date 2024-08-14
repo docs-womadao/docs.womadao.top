@@ -1,4 +1,5 @@
 # 创造世界领地指令
+>在新周目暂不可用
 
 圈地
 [教学视频 ](https://img.yin0mc.ltd/videos/residence.mp4)[https://img.yin0mc.ltd/videos/residence.mp4](https://img.yin0mc.ltd/videos/residence.mp4)(点击收看)

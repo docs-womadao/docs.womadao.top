@@ -19,6 +19,7 @@ description: PCL启动器配置外置登录登入皮肤站
 ![](../assets/image.png)
 
 **3.选择 正式版 >> 1.20.1 ；**
+`2024/7/31日后更新周目，请下载1.21版本`
 
 ![](../assets/image%20(1).png)
 
@@ -50,12 +51,15 @@ description: PCL启动器配置外置登录登入皮肤站
 
 ![](../assets/image%20(8).png)
 
-**11.然后按照这样来填写：**
+**11.然后按照这样来填写：**  
+认证服务器地址： https://skin.warma.fans/api/yggdrasil  
+注册链接：https://skin.warma.fans/auth/register  
+自动进入服务器： 选填即可（别看ddz的截图那个x）
 
 ![](../assets/image%20(9).png)
 
 &#x20;   仔细检查核对所填**`认证服务器`**、**`注册链接`**和**`自动进入服务器`**（选填）与图中是否一致。且字符均为**英文半角**字符。如果未填**`自动进入服务器`**一项，稍后在进入游戏时需进入多人游戏 >> 添加服务器里手动添加相应的服务器名称和地址，服务器信息详见 
-[Java版加入服务器](../serverDocs/enterTheServer/java-ban-jia-ru-fu-wu-qi.md)  
+[Java版加入服务器](../serverDocs/java-ban-jia-ru-fu-wu-qi.md)  
 
 &#x20;
 
