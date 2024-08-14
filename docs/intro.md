@@ -18,11 +18,9 @@ description: 欢迎来到沃玛岛帮助文档首页。
 
 ## 新人一定要看的
 
-[皮肤站文档](./First/Readme/pi-fu-zhan-wen-dang)
+[皮肤站文档](./First/Readme/pi-fu-zhan-wen-dang)  
 
-[如何进入服务器](./serverDocs/enterTheServer/README.md)
-
-[基岩版如何进入服务器](./serverDocs/enterTheServer/ji-yan-ban-jia-ru-fu-wu-qi)
+[如何进入服务器](./serverDocs/README.md)
 
 ## 服务器信息
 

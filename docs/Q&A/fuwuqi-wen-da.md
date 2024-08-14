@@ -14,7 +14,7 @@ description: 有些问题，你可能会经常遇到
 整合包[**下载地址**](https://pds.zroevn.cn/s/4dLuR9cGyUS)  
  解压.zip文件到自己熟悉的文件夹（如`D:\Minecraft\`）进入`\HMCL\`目录\
  双击HMCL.exe打开启动器\
- 接下来的操作参考[如何进入服务器](../serverDocs/enterTheServer/java-ban-jia-ru-fu-wu-qi)  
+ 接下来的操作参考[如何进入服务器](../serverDocs/java-ban-jia-ru-fu-wu-qi)  
  进入游戏后，点击多人游戏-添加服务器  
  服务器名称： 沃玛岛服务器  
  服务器地址： warma.fans  
