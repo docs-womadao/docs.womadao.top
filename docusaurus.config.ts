@@ -97,7 +97,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/Twiyin0/docs.womadao.top',
+          href: 'https://github.com/docs-womadao/docs.womadao.top',
           label: 'GitHub',
           position: 'right',
         },
