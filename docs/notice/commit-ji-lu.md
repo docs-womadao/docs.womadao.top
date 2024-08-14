@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 **仅仅记录 v1.0.0.1 及以后的版本**
 仅记录修改者及更新时间，具体修改信息请移步**GitHub**
-[Twiyin0/docs.womadao.top](https://github.com/docs-womadao/docs.womadao.top/docs.womadao.top "请给我们一个免费的star吧qwq--柳柳")
+[docs-womadao/docs.womadao.top](https://github.com/docs-womadao/docs.womadao.top "请给我们一个免费的star吧qwq--柳柳")
 
 ## v1.0.0.1
 
