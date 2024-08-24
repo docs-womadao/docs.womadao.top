@@ -1,6 +1,6 @@
 # Java 安装及使用
 
-//** <span style={{color: 'red'}}>jre8 安装和 jdk17/jdk21 安装都是一样的步骤</span> **
+**<font color=red>jre8 安装和 jdk17/jdk21 安装都是一样的步骤</font>**
 
 ### 下载 Java
 
