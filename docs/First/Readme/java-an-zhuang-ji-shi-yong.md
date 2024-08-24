@@ -1,6 +1,6 @@
 # Java 安装及使用
 
-**<font color=red>jre8 安装和 jdk17/jdk21 安装都是一样的步骤</font>**
+**<font color=red>jre8 安装和 jdk17/jdk21 安装都是一样的步骤</font>**<!--改成font了,**【内容】**中间不要加空格-->
 
 ### 下载 Java
 
