@@ -4,13 +4,15 @@ authors: Twiyin0
 tags: [docs, "文档", "规范"]
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 :::tip
 为了规范文档编写，提高文档质量，特制定此文档编写规范书。  
 该部分包含对标题命名、特殊符号使用等规范
 :::
 
-> 此网站所有目录下的文档都使用`markdown`编写，此规范使用于所有markdown(`.md`或`.mdx`文件)  
+> 此网站所有目录下的文档都使用`markdown`编写，此规范使用于本站所有markdown(`.md`或`.mdx`文件)  
 
 <!--truncate-->
 
@@ -33,9 +35,17 @@ tags: [docs, "文档", "规范"]
     ```markdown
     <span style={{"color":"颜色代码"}}>文本</span>
     ```
+    或者你也可以使用以下代码，但是这会导致文本字体不同于正文，不太推荐  
+    ```
+    $\color{#ffae1a}{文本}$
+    ```
     举例: <span style={{ "color": "red" }}>危险</span> || <span style={{ "color": "#00BFFF" }}>危险</span>
     ```markdown
     <span style={{ "color": "red" }}>危险</span> || <span style={{ "color": "#00BFFF" }}>危险</span>
+    ```
+    或
+    ```
+    $\color{red}{危险}$ || $\color{#00BFFF}{危险}$ # {危险}的{}可以省略，看个人习惯
     ```
 
 2. <span style={{ "color": "#ffae1a" }}>如果标题中含有标号（如一、二、三、四等）不方便跳转的可以使用以下代码</span>  
@@ -78,6 +88,42 @@ tags: [docs, "文档", "规范"]
     awa.md
     bbb.md
     ```
+
+## 选项卡使用规范
+选项卡是个好东西，能把一些相似的内容放在一起节省页面空间  
+![selectCrad](./imgs/specificationDocs/slectCard.png)  
+使用方法: 
+1. 在md文件前面引入以下代码, **<span style={{ "color": "#ffae1a" }}>一定要引入，不然会报错</span>**
+```
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+```
+2. 在需要使用选项卡的地方使用以下代码
+```html
+    <Tabs>
+    <TabItem value="apple" label="Apple" default>
+        This is an apple 🍎
+    </TabItem>
+    <TabItem value="orange" label="Orange">
+        This is an orange 🍊
+    </TabItem>
+    <TabItem value="banana" label="Banana">
+        This is a banana 🍌
+    </TabItem>
+    </Tabs>
+```
+3. 效果如下  
+<Tabs>
+<TabItem value="apple" label="Apple" default>
+    This is an apple 🍎
+</TabItem>
+<TabItem value="orange" label="Orange">
+    This is an orange 🍊
+</TabItem>
+<TabItem value="banana" label="Banana">
+    This is a banana 🍌
+</TabItem>
+</Tabs> 
 
 ## 版本号命名规范
 * 版本号统一写在`/docs/notice/commit-ji-lu.md`文件内，别的地方就不要写了，影响观感

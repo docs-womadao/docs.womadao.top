@@ -1,19 +1,31 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+frp:
+  label: frp
+  permalink: /frp
+  description: frp software
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+内网穿透:
+  label: 内网穿透
+  permalink: /内网穿透
+  description: 一种网络技术
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
+docs:
+  label: docs
+  permalink: /docs
   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+文档:
+  label: 文档
+  permalink: /文档
+  description: 本文档
+
+规范:
+  label: 规范
+  permalink: /规范
+  description: 一些规范
+
+mc开服:
+  label: mc开服
+  permalink: /mc开服
+  description: mc开服的操作
+
+

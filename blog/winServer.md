@@ -1,7 +1,7 @@
 ---
 title: Windows开服教程
 authors: vlssu
-tags: [mc开服, Java版开服]
+tags: [mc开服]
 ---
 
 :::tip
