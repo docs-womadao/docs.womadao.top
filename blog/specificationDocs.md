@@ -101,14 +101,15 @@ toc_max_heading_level: 5
 ## 思维导图的使用
 本文档已支持mermaid语法，可以绘制思维导图，使用方法如下
 ```markdown
-```mermaid
+\```mermaid # 省略掉这个\,这个只是为了防止语法出错加的转义符
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+\```
 ```
-```
+
 示例效果
 ```mermaid
 graph TD;
@@ -117,6 +118,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
 更多语法可参考[mermaid.js](http://mermaid.js.org/intro/syntax-reference.html)
 
 ## 选项卡使用规范
