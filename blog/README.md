@@ -11,6 +11,6 @@ title: 目录
 * [师叔的教程](./README.md)
     * [Windows开服教程](./winServer.md)
 
-> 更新日期: 2022-04-23
+> 更新日期: 2024-08-23
 
 <!--truncate-->

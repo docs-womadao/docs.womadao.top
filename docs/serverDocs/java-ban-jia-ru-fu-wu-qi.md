@@ -22,7 +22,7 @@ description: java版玩家加入服务器
 
 **主线服务器ip地址：warma.fans**&#x20;
 
-**如果连接不上可以尝试切换[备用线路](../intro.md#服务器-ip-地址)**
+**如果连接不上可以尝试切换[备用线路](../intro.md#server-ip)**
 
 
 

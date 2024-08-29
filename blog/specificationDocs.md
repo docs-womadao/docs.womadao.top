@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
 * markdown语法速查表可查看[Markdown 语法速查表](https://markdown.com.cn/cheat-sheet.html)
 
 ## 标题规范
-**标题尽量不要超过4级**
+**标题尽量不要超过5级**
 1. <span style={{ "color": "#ffae1a" }}>标题非必要情况下不要加粗</span>，如果有特殊需求（如警告、危险等强调的地方）可以使用加粗或者更改颜色
     **注:** 更换颜色的代码为  
     ```markdown
@@ -69,6 +69,15 @@ import TabItem from '@theme/TabItem';
     [第三个一级标题的第二个二级标题的第三个三级标题](#3-2-3)
     ```
 
+3. 每个 Markdown 文档会在右上角显示一个目录栏。 目录默认只显示 h2 和 h3 标题。 如果需要显示多级标题，可以在md文件头部`---`内使用以下代码
+```markdown
+---
+# 显示 h2 到 h5 标题
+toc_min_heading_level: 2
+toc_max_heading_level: 5
+---
+```
+
 ## 正文规范
 - 正文需要保证格式不会出错，推荐使用vscode插件`Markdown Preview Enhanced`  
 安装后ctrl+shift+v可以预览markdown文件，可以使用这个插件检查自己的正文内容是否有误
@@ -88,6 +97,27 @@ import TabItem from '@theme/TabItem';
     awa.md
     bbb.md
     ```
+
+## 思维导图的使用
+本文档已支持mermaid语法，可以绘制思维导图，使用方法如下
+```markdown
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+```
+示例效果
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+更多语法可参考[mermaid.js](http://mermaid.js.org/intro/syntax-reference.html)
 
 ## 选项卡使用规范
 选项卡是个好东西，能把一些相似的内容放在一起节省页面空间  
@@ -113,6 +143,7 @@ import TabItem from '@theme/TabItem';
     </Tabs>
 ```
 3. 效果如下  
+
 <Tabs>
 <TabItem value="apple" label="Apple" default>
     This is an apple 🍎
@@ -124,6 +155,53 @@ import TabItem from '@theme/TabItem';
     This is a banana 🍌
 </TabItem>
 </Tabs> 
+
+## 告示语法规范
+除了基本markdown语法外，还可以用以下语法来制作告示  
+以下由上至下重要程度依次增加  
+
+```
+::: note 备注
+这是一个备注
+:::
+
+::: tip 提示
+这是一个提示
+:::
+
+::: info 信息
+这是一个信息
+:::
+
+::: warning 警告
+这是一个警告
+:::
+
+::: danger 危险
+这是一个危险
+:::
+```
+
+效果如下
+::: note 备注
+这是一个备注
+:::
+
+::: tip 提示
+这是一个提示
+:::
+
+::: info 信息
+这是一个信息
+:::
+
+::: warning 警告
+这是一个警告
+:::
+
+::: danger 危险
+这是一个危险
+:::
 
 ## 版本号命名规范
 * 版本号统一写在`/docs/notice/commit-ji-lu.md`文件内，别的地方就不要写了，影响观感

@@ -15,6 +15,9 @@ const config: Config = {
   favicon: 'img/logo.png',
   organizationName: 'docsWomadao', // Usually your GitHub org/user name.
   projectName: 'DocsOfWMD', // Usually your repo name.
+  markdown: {
+    mermaid: true,
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -84,9 +87,16 @@ const config: Config = {
         blogRouteBasePath: 'blog'
       }),
     ],
+    '@docusaurus/theme-mermaid',
   ],
 
   themeConfig: {
+    mermaid: {
+      theme: {light: 'neutral', dark: 'forest'},
+      options: {
+        maxTextSize: 5000,
+      },
+    },
     navbar: {
       title: '首页',
       logo: {
