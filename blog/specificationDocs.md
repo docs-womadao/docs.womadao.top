@@ -162,46 +162,47 @@ import TabItem from '@theme/TabItem';
 除了基本markdown语法外，还可以用以下语法来制作告示  
 以下由上至下重要程度依次增加  
 
-```
-::: note 备注
+```text
+:::note 备注
 这是一个备注
 :::
 
-::: tip 提示
+:::tip 提示
 这是一个提示
 :::
 
-::: info 信息
+:::info 信息
 这是一个信息
 :::
 
-::: warning 警告
+:::warning 警告
 这是一个警告
 :::
 
-::: danger 危险
+:::danger 危险
 这是一个危险
 :::
 ```
 
 效果如下
-::: note 备注
+
+:::note 备注
 这是一个备注
 :::
 
-::: tip 提示
+:::tip 提示
 这是一个提示
 :::
 
-::: info 信息
+:::info 信息
 这是一个信息
 :::
 
-::: warning 警告
+:::warning 警告
 这是一个警告
 :::
 
-::: danger 危险
+:::danger 危险
 这是一个危险
 :::
 
