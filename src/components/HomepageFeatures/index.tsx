@@ -14,8 +14,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        原为warma鸡窝服务器，起源于2020年10月
-        将喜欢Minecraft的沃沃头集合在一起开心的玩耍~ 
+        原为warma鸡窝服务器，起源于2020年10月，现由"沃玛频道"运营。
+        心愿是将喜欢Minecraft的沃沃头集合在一起开心的玩耍~ 
         沃玛频道官方入群通道：http://warma.fans
       
       </>
@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        沃玛频道服务器内置生存与创造以及“沃玛岛”等多个子服务器，我们期待着你的游玩！
+        沃玛岛服务器并不内置生存与创造以及“沃玛岛”等多个子服务器，目前，mod服务器正在试运营中，我们在等你一起玩！
       </>
     ),
   },

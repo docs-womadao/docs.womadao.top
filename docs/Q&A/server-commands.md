@@ -1,4 +1,4 @@
-# 服务器命令列表
+# 服务器常用命令列表
 
 ## 指令列表
 
@@ -21,7 +21,7 @@
 | /me                     | 消息                            | 全体目光向我看齐，我宣布个事 |
 | /msg                    | 某人+空格+消息                       | 悄悄告诉某人消息 |
 | /nick                   | 昵称                            | 改名(支持[&+一位十六进制颜色]) |
-| /pay                    | 某人+数字                          | 给我好大儿某人一些钱钱(没开) |
+| /pay                    | 某人+数字                          | 给某人一些钱钱(没开) |
 | /ping                   | 无/(玩家)                              | 查看自己/别人的延迟 |
 | /playtime               | 无                                  | 查看自己游戏时长 |
 | /playtimetop            | 无                                  | 查看全服游戏时长排行榜 |
@@ -52,7 +52,23 @@
 举例： /co l r:5 t:1d  
 查看以自己为中心，5个方块为半径区域内，1天之中的方块变化  
 可查看[co 使用说明](../Other/pluginsDocs/co-cha-jian-zhi-ling-shuo-ming)  
-更多详情可以去看维基百科[wiki-coreprotect](https://mineplugin.org/CoreProtect)
+更多详情可以去看维基百科[wiki-coreprotect](https://mineplugin.org/CoreProtect)  
+
+### cmi插件百科[cmi插件指令](../Other/pluginsDocs/cmi-cha-jian-bang-zhu)
+### /nick_以及颜色代码帮助
+这个指令可以用来修改你在服务器里的昵称
+可以参考下面的颜色代码表  
+"§"为原版分节符，**我们需要使用"&"来代替它**  
+**使用例：**  
+/nick &6cxchency  
+可将自己的名字改为<span style={{color:'gold','font-weight':'bolder','font-size':'16px'}}>cxchency</span>  
+并且发言均为<span style={{color:'gold','font-weight':'bolder','font-size':'16px'}}>金色</span>  
+/nick &6cxchency&r  
+名字同上，但是发言样式为默认样式（既发言字体仍为白色）  
+**颜色代码表**：
+![颜色代码表](../assets/color_code.jpg)  
+
+
 
 ### /server
 
