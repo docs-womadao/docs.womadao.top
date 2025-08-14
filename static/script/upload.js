@@ -10,11 +10,11 @@ const config = {
 	archiveFileName: 'build.tar.gz', // 明确的文件名
 	
 	// 远程服务器配置
-	remoteHost: env.HOSTNAME || process.env.HOSTNAME,
+	remoteHost: process.env.HOSTNAME,
 	remotePort: 22,
-	remoteUsername: env.USERNAME || process.env.USERNAME,
-	remotePassword: env.PASSWD || process.env.PASSWD,
-	remoteDir: env.REMOTE_DIR || process.env.REMOTE_DIR,
+	remoteUsername: process.env.USERNAME,
+	remotePassword: process.env.PASSWD,
+	remoteDir: process.env.REMOTE_DIR,
 	cleanup: true
 };
 
