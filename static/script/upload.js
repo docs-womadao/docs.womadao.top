@@ -20,6 +20,7 @@ const config = {
 	cleanup: true
 };
 
+// 旧方案
 // 1. 打包目录为tar.gz文件（包含所有文件和子目录）
 function createTarGz() {
     return new Promise((resolve, reject) => {
