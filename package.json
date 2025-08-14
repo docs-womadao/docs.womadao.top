@@ -19,6 +19,7 @@
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
+    "upload": "node ./static/script/upload.js",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc"
@@ -29,17 +30,20 @@
     "@docusaurus/theme-mermaid": "^3.5.2",
     "@easyops-cn/docusaurus-search-local": "^0.44.5",
     "@mdx-js/react": "^3.0.0",
+    "archiver": "^7.0.1",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "rehype-katex": "7",
-    "remark-math": "6"
+    "remark-math": "6",
+    "ssh2": "^1.16.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.5.2",
     "@docusaurus/tsconfig": "3.5.2",
     "@docusaurus/types": "3.5.2",
+    "@types/ssh2": "^1",
     "typescript": "~5.5.2"
   },
   "browserslist": {
