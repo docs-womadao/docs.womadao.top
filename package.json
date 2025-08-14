@@ -25,6 +25,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.864.0",
     "@docusaurus/core": "3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
     "@docusaurus/theme-mermaid": "^3.5.2",

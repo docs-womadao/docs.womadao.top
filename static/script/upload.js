@@ -2,6 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const archiver = require('archiver');
 const { Client } = require('ssh2');
+// 替代方案 - 上传到 Cloudflare R2
+const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
 
 // 配置参数 - 确保所有路径都正确定义
 const config = {
@@ -138,14 +140,38 @@ function uploadAndExtract(archiveFilePath) {
   });
 }
 
+// 上传到CF R2
+async function uploadToR2(archiveFilePath) {
+    const client = new S3Client({
+      region: "auto",
+      endpoint: `${process.env.ENDPOINT}`,
+      credentials: {
+        accessKeyId: process.env.R2_ACCESS_KEY_ID,
+        secretAccessKey: process.env.R2_SECRET_ACCESS_KEY,
+      },
+    });
+  
+    const fileContent = fs.readFileSync(archiveFilePath);
+    
+    const command = new PutObjectCommand({
+      Bucket: process.env.R2_BUCKET,
+      Key: config.archiveFileName,
+      Body: fileContent,
+    });
+  
+    await client.send(command);
+}
+
 // 主函数
 async function main() {
 try {
     console.log('Starting process...');
     const archiveFilePath = await createTarGz();
     console.log('Archive created at:', archiveFilePath);
-    await uploadAndExtract(archiveFilePath);
-    console.log('Process completed successfully!');
+    // await uploadAndExtract(archiveFilePath);
+    // console.log('Process completed successfully!');
+    await uploadToR2(archiveFilePath);
+    console.log('Process completed to R2 successfully!');
     fs.unlinkSync(archiveFilePath);
     console.log('Local archive removed');
     } catch (error) {
