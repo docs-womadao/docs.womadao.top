@@ -86,8 +86,8 @@ async function uploadToR2(archiveFilePath) {
   const fileContent = fs.readFileSync(archiveFilePath);
   
   // Calculate local MD5 for later verification
-  const localMD5 = await calculateFileMD5(archiveFilePath);
-  console.log(`Local file MD5: ${localMD5}`);
+  // const localMD5 = await calculateFileMD5(archiveFilePath);
+  // console.log(`Local file MD5: ${localMD5}`);
   
   const command = new PutObjectCommand({
     Bucket: config.r2Config.bucket,
@@ -98,7 +98,7 @@ async function uploadToR2(archiveFilePath) {
 
   await client.send(command);
   console.log('File uploaded to R2 successfully');
-  return localMD5;
+  // return localMD5;
 }
 
 // Get R2 object MD5 hash from ETag
@@ -135,13 +135,13 @@ async function remoteDownloadAndExtract(expectedMD5) {
         `wget -q -O ${tempDownloadPath} "${downloadUrl}"`,
         
         // Verify MD5 hash
-        `echo "Verifying MD5 hash..."`,
-        `remote_md5=$(md5sum ${tempDownloadPath} | awk '{print $1}')`,
-        `if [ "$remote_md5" != "${expectedMD5}" ]; then`,
-        `  echo "MD5 mismatch! Expected: ${expectedMD5}, Got: $remote_md5"`,
-        `  rm -f ${tempDownloadPath}`,
-        `  exit 1`,
-        `fi`,
+        // `echo "Verifying MD5 hash..."`,
+        // `remote_md5=$(md5sum ${tempDownloadPath} | awk '{print $1}')`,
+        // `if [ "$remote_md5" != "${expectedMD5}" ]; then`,
+        // `  echo "MD5 mismatch! Expected: ${expectedMD5}, Got: $remote_md5"`,
+        // `  rm -f ${tempDownloadPath}`,
+        // `  exit 1`,
+        // `fi`,
         
         // Move to final location if MD5 matches
         `mv ${tempDownloadPath} ${remoteArchivePath}`,
@@ -202,7 +202,7 @@ async function main() {
     const localMD5 = await uploadToR2(archiveFilePath);
     
     // Step 3: Verify R2 object MD5 matches local
-    const remoteMD5 = await getR2ObjectMD5();
+    // const remoteMD5 = await getR2ObjectMD5();
     // console.log(`R2 object MD5: ${remoteMD5}`);
     
     // if (localMD5 !== remoteMD5) {
@@ -210,6 +210,7 @@ async function main() {
     // }
     
     // Step 4: Remote server operations
+    // await remoteDownloadAndExtract(localMD5);
     await remoteDownloadAndExtract(localMD5);
     
     // Cleanup local archive
