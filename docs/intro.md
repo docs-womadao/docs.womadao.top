@@ -14,7 +14,7 @@ description: 欢迎来到沃玛岛帮助文档首页。
 
 **沃玛频道[官方网站](https://www.warma.fans)**
 
-文档版本：v2.0.1.14<br/>
+文档版本：v2.0.1.15<br/>
 该帮助文档版本由 v3.0 基础上进行修改而来  
 如文档有错误请联系音铃或者柳柳。  
 [文档修改记录](./notice/commit-ji-lu)
@@ -32,7 +32,7 @@ description: 欢迎来到沃玛岛帮助文档首页。
 
 服务器版本：(只能用沃玛岛皮肤站登录，**正版无法验证**)
 
-Java 版(国际版)**1.10.2 ~1.21.7**
+Java 版(国际版)**26.2**
 
 基岩版(国际版)**26.0~26.33**(正式版)
 
@@ -44,13 +44,18 @@ Java 版(国际版)**1.10.2 ~1.21.7**
 **插件服务器**
 | 客户端                    | 协议版本 | 地址           | 端口  |
 | ------------------------- | -------- | -------------- | ----- |
-| **JAVA版-frp(主线)**       | ipv4     | warma.fans     | -     |
-| **JAVA版-nat(备线)**       | ipv4     | mc2.warma.fans | -     |
-| **JAVA版-frp(备线2)**      |ipv4    |mc3.warma.fans |   -   |
-| **Java 版**               | ipv6     | mc.chency.top  | 25577 |
-| **基岩版**                | ipv4     | be.warma.fans  | 45765 |
-| **基岩版(备线)**          |ipv4       |be1.warma.fans |45765|
-| **基岩版**                | ipv6     | mc.chency.top  | 19132 |  
+| **JAVA版-IPv6直连**       | ipv6     | mc.warma.fans     | -     |
+| **JAVA版-NAT直连**        | ipv4     | mc2.warma.fans    | -     |
+| **JAVA版-中转线路**       | ipv4     | warma.fans        | -     |
+| **JAVA版-中转线路(备)**   | ipv4     | m.warma.moe       | -     |
+| **基岩版-IPv6直连**       | ipv6     | mc.chency.top     | 19132 |
+| **基岩版-NAT直连**        | ipv4     | mcipv4.warma.fans | 动态端口 |
+| **基岩版-中转线路**       | ipv4     | be.warma.fans     | 45765 |
+| **基岩版-中转线路(备)**   | ipv4     | m.warma.moe       | 45765 |
+
+:::info 基岩版 NAT 直连
+基岩版 NAT 直连端口不是固定值，请在沃玛岛群聊中使用 `./ping` 获取当前地址和端口。
+:::
 
 **Mod服务器**
 | 客户端                    | 协议版本 | 地址           | 端口  |
