@@ -1,6 +1,6 @@
 # Java 安装及使用
 
-**<font style={{ "color": "red" }}>jre8 安装和 jdk17/jdk21 安装都是一样的步骤</font>**<!--改成font了,**【内容】**中间不要加空格-->
+**<font style={{ "color": "red" }}>jre8 安装和 jdk17/jdk21/jdk25 安装都是一样的步骤</font>**<!--改成font了,**【内容】**中间不要加空格-->
 
 ### 下载 Java
 
@@ -17,10 +17,13 @@
 
 从1.20.5（24w14a）开始，运行Minecraft的最低要求是Java 21，且操作系统要求为64位。  
 
+从26.1（26.1-snapshot-1）开始，运行Minecraft的最低要求是Java 25，且操作系统要求为64位。
+
 故推荐版本如下  
 MC版本﹤1.16.5	推荐java8  
 1.20.1≧MC版本≧1.16.5	推荐java17  
 MC版本≧1.20.2	推荐java21(amd64)  
+26.1≧MC版本≧1.21.11	推荐java25(amd64)  
 
 ---
 
