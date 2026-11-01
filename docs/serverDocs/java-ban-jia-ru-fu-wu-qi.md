@@ -49,7 +49,7 @@ description: java版玩家加入服务器
 ![](<../assets/pkg3.png>)   
 ![](<../assets/pkg4.png>)  
 
-首先得安装 Java20 及以上版本，可以点击下面跳转到教程
+首先得安装 Java25 及以上版本，可以点击下面跳转到教程
 
 [Java 安装](../First/Readme/java-an-zhuang-ji-shi-yong)
 
